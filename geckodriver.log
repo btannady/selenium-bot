@@ -1,0 +1,261 @@
+1627595168195	geckodriver	INFO	Listening on 127.0.0.1:49259
+1627595171255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofiledWnIO7"
+1627595171708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofiledWnIO7\\search.json.mozlz4", (void 0)))
+1627595173780	Marionette	INFO	Listening on port 49269
+1627595173916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1750762701, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1750762701, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1750762701, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1750762701 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1750762701 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627595183963	Marionette	INFO	Stopped listening on port 49269
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627595955677	geckodriver	INFO	Listening on 127.0.0.1:53855
+1627595958742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileUJz0Gg"
+1627595959203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileUJz0Gg\\search.json.mozlz4", (void 0)))
+1627595961366	Marionette	INFO	Listening on port 53865
+1627595961424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1716233510, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1716233510, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1716233510, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1716233510 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1716233510 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627596114704	Marionette	INFO	Stopped listening on port 53865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will beconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofile53Hkiu\\search.json.mozlz4", (void 0)))
+1627596116065	Marionette	INFO	Listening on port 54084
+1627596116108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1893943077, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1893943077, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1893943077, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1893943077 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1893943077 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596120732	Marionette	INFO	Stopped listening on port 54084
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627596364546	geckodriver	INFO	Listening on 127.0.0.1:55533
+1627596367625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileVPSh64"
+1627596368074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileVPSh64\\search.json.mozlz4", (void 0)))
+1627596370022	Marionette	INFO	Listening on port 55542
+1627596370300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1422581302, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1422581302, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1422581302, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1422581302 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1422581302 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596380149	Marionette	INFO	Stopped listening on port 55542
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627596719263	geckodriver	INFO	Listening on 127.0.0.1:55819
+1627596722341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilekV0jex"
+1627596722788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilekV0jex\\search.json.mozlz4", (void 0)))
+1627596724786	Marionette	INFO	Listening on port 55829
+1627596725024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=407673429, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=407673429, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=407673429, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=407673429 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=407673429 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596730808	Marionette	INFO	Stopped listening on port 55829
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 14080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627596738699	geckodriver	INFO	Listening on 127.0.0.1:55945
+1627596741778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileY0Rwfk"
+1627596742241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileY0Rwfk\\search.json.mozlz4", (void 0)))
+1627596744450	Marionette	INFO	Listening on port 55955
+1627596744959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=867250105, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=867250105, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=867250105, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=867250105 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=867250105 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596749275	Marionette	INFO	Stopped listening on port 55955
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627596953568	geckodriver	INFO	Listening on 127.0.0.1:65343
+1627596956648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilenrrfk7"
+1627596957117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilenrrfk7\\search.json.mozlz4", (void 0)))
+1627596959256	Marionette	INFO	Listening on port 65353
+1627596959350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=55990683, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=55990683, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=55990683 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=55990683 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596963818	Marionette	INFO	Stopped listening on port 65353
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627596971505	geckodriver	INFO	Listening on 127.0.0.1:65443
+1627596974580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofiled2SYcE"
+1627596975034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofiled2SYcE\\search.json.mozlz4", (void 0)))
+1627596977072	Marionette	INFO	Listening on port 65453
+1627596977267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1523533450, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1523533450, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1523533450, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1523533450 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1523533450 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627596981955	Marionette	INFO	Stopped listening on port 65453
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1627596995176	geckodriver	INFO	Listening on 127.0.0.1:49164
+1627596998233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileGXPCAF"
+1627596998694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileGXPCAF\\search.json.mozlz4", (void 0)))
+1627597000636	Marionette	INFO	Listening on port 49174
+1627597000923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=12478246, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=12478246, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=12478246, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=12478246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=12478246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627597012053	Marionette	INFO	Stopped listening on port 49174
+1627597259197	geckodriver	INFO	Listening on 127.0.0.1:49430
+1627597262263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileWHEnsB"
+1627597262737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileWHEnsB\\search.json.mozlz4", (void 0)))
+1627597264911	Marionette	INFO	Listening on port 49439
+1627597264953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=469089587, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=469089587, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=469089587 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627597305329	geckodriver	INFO	Listening on 127.0.0.1:49581
+1627597308395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilepaHw8o"
+1627597308862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofilepaHw8o\\search.json.mozlz4", (void 0)))
+1627597311214	Marionette	INFO	Listening on port 49591
+1627597311574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1138843057, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1138843057, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1138843057, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1138843057 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1138843057 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627597318032	Marionette	INFO	Stopped listening on port 49591
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 490: TypeError: window is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627597382493	geckodriver	INFO	Listening on 127.0.0.1:54225
+1627597385521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileAcqBN6"
+1627597386008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\flyin\\AppData\\Local\\Temp\\rust_mozprofileAcqBN6\\search.json.mozlz4", (void 0)))
+1627597388376	Marionette	INFO	Listening on port 54235
+1627597388697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=873535027, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=873535027, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=873535027 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.techwithtim.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=873535027 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1627597396039	Marionette	INFO	Stopped listening on port 54235
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 490: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
