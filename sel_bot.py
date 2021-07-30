@@ -22,20 +22,27 @@ print(driver.title)
 # --------------------------------------
 
 # navigate to desired location on page
-curr_title = driver.title
 search = driver.find_element_by_name("s")
 search.send_keys("test")
 search.send_keys(Keys.RETURN)
 time.sleep(2)
 
-# attempt to scrape desired information on current page
+# attempt to scrape desired information on current page WHEN it is available
 try: 
 	# wait a maximum of 10 seconds until expected element is located
 	main = WebDriverWait(driver, 10).until(
 		EC.presence_of_element_located((By.ID, "main"))
 	)
 
-	print(main.text)
+	articles = main.find_elements_by_tag_name("article")
+	for article in articles:
+		summary = article.find_element_by_class_name("entry-summary")
+		print(summary.text)
+
+
+		print("---------------------------")
+
+	# print(main.text)
 
 finally:
 	driver.quit()
