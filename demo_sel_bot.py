@@ -17,15 +17,15 @@ driver = webdriver.Firefox(executable_path=r"C:\Program Files (x86)\geckodriver.
 # ---------------------------------------
 
 # open up desired url
-driver.get("https://techwithtim.net")
+driver.get("https://www.crunchyroll.com/")
 
 print(driver.title)
 
 # --------------------------------------
 
 # navigate to desired location on page
-search = driver.find_element_by_name("s")
-search.send_keys("test")
+search = driver.find_element_by_id("header_search_input")
+search.send_keys("sword")
 search.send_keys(Keys.RETURN)
 
 time.sleep(2) # sometimes necessary to give page buffer time to transition
@@ -35,22 +35,18 @@ time.sleep(2) # sometimes necessary to give page buffer time to transition
 # attempt to scrape desired information on current page WHEN it is available
 try: 
 	# wait a maximum of 10 seconds until expected element is located
-	main = WebDriverWait(driver, 10).until(
-		EC.presence_of_element_located((By.ID, "main"))
+	element = WebDriverWait(driver, 10).until(
+		EC.presence_of_element_located((By.LINK_TEXT, "7"))
 	)
+	element.click()
+	time.sleep(1)
 
-	articles = main.find_elements_by_tag_name("article")
-	for article in articles:
-		summary = article.find_element_by_class_name("entry-summary")
-		print(summary.text)
+	element = WebDriverWait(driver, 10).until(
+		EC.presence_of_element_located((By.TAG_NAME, "href"))
+	)
+	print(element.text)
+	
 
-
-		print("---------------------------")
-
-	link = driver.find_element_by_link_text("November 4, 2019")
-	link.click()
-	time.sleep(5)
 
 finally:
 	driver.quit()
-
