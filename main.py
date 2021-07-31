@@ -13,12 +13,15 @@ class PythonOrgSearch(unittest.TestCase):
 
 	# ---------------------------------
 
-	# tests
+	# functions beginning with test_ will run 
 
-	
-	def test_title(self):
-		mainPage = page.MainPage()
+	def test_search_python(self):
+		mainPage = page.MainPage(self.driver)
 		assert mainPage.is_title_matches()
+		mainPage.search_text_element = "pycon"
+		mainPage.click_go_button()
+		search_result_page = page.SearchResultPage(self.driver)
+		assert search_result_page.is_results_found()
 
 
 	# ---------------------------------
