@@ -6,6 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC 
 
+from selenium.webdriver.common.action_chains import ActionChains
+
 import time
 
 # ---------------------------------------
@@ -28,7 +30,8 @@ search = driver.find_element_by_name("s")
 search.send_keys("test")
 search.send_keys(Keys.RETURN)
 
-time.sleep(2) # sometimes necessary to give page buffer time to transition
+# sometimes necessary to give page buffer time to transition
+time.sleep(2)
 
 # --------------------------------------
 
