@@ -1,9 +1,11 @@
+from unittest.runner import TextTestRunner
 from selenium import webdriver
 import time
 import unittest
+import HtmlTestRunner
 
 import sys
-sys.path.append("c:\\Users\\flyin\\Projects\\selenium_bot\\SampleProjects\\POMproject") # modify path as necessary
+sys.path.append("c:/Users/flyin/Projects/selenium_bot/SampleProjects/POMproject") # modify path as necessary
 from Pages.loginPage import LoginPage
 from Pages.homePage import HomePage
 
@@ -41,4 +43,4 @@ class LoginTest(unittest.TestCase):
         print("Test Completed.")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output="C:/Users/flyin/Projects/selenium_bot/SampleProjects/POMproject/Reports")) # modify path as necessary
