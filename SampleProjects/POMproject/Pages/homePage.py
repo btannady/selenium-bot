@@ -1,3 +1,4 @@
+from Locators.locators import Locators
 
 class HomePage():
 
@@ -5,8 +6,8 @@ class HomePage():
         self.driver = driver
 
         # page locators
-        self.welcome_button_id = "welcome"
-        self.logout_button_link_text = "Logout"
+        self.welcome_button_id = Locators.welcome_button_id
+        self.logout_button_link_text = Locators.logout_button_link_text
 
     def click_welcome_button(self):
         self.driver.find_element_by_id(self.welcome_button_id).click()
