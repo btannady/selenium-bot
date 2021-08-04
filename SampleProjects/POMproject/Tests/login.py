@@ -2,6 +2,11 @@ from selenium import webdriver
 import time
 import unittest
 
+import sys
+sys.path.append("c:\\Users\\flyin\\Projects\\selenium_bot\\SampleProjects\\POMproject") # modify path as necessary
+from Pages.loginPage import LoginPage
+from Pages.homePage import HomePage
+
 class LoginTest(unittest.TestCase):
     
     @classmethod
@@ -12,18 +17,19 @@ class LoginTest(unittest.TestCase):
         cls.driver.maximize_window()
 
     def test_login_valid(self):
-        
-        self.driver.get("https://opensource-demo.orangehrmlive.com/")
-        # username textbox
-        self.driver.find_element_by_id("txtUsername").send_keys("Admin")
-        # password textbox
-        self.driver.find_element_by_id("txtPassword").send_keys("admin123")
-        # click login button
-        self.driver.find_element_by_id("btnLogin").click()
-        # click welcome drop-down button
-        self.driver.find_element_by_id("welcome").click()
-        # click Logout button
-        self.driver.find_element_by_link_text("Logout").click()
+        driver = self.driver
+
+        driver.get("https://opensource-demo.orangehrmlive.com/")
+
+        login = LoginPage(driver)
+        login.enter_username("Admin")
+        login.enter_password("admin123")
+        login.click_login_button()
+
+        homepage = HomePage(driver)
+        homepage.click_welcome_button()
+        homepage.click_logout_button()
+
         time.sleep(2)
 
     @classmethod
