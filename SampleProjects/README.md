@@ -9,3 +9,9 @@ The project focuses on integrating fundamental principles of software testing, s
 Made with Python, Selenium, HtmlTestRunner.
 <br />
 <br />
+# Instructions:
+<br />
+Compile and Run the "login.py" file in selenium_bot/SampleProjects/POMproject/Tests/login.py.
+<br />
+Please make sure to maintain all the necessary dependencies (Python, Selenium, Firefox, geckodriver). Also don't forget to modify the location in which you store "geckodriver" as necessary.
+
