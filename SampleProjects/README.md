@@ -13,5 +13,6 @@ Made with Python, Selenium, HtmlTestRunner.
 <br />
 Compile and Run the "login.py" file in selenium_bot/SampleProjects/POMproject/Tests/login.py.
 <br />
+<br />
 Please make sure to maintain all the necessary dependencies (Python, Selenium, Firefox, geckodriver). Also don't forget to modify the location in which you store "geckodriver" as necessary.
 
