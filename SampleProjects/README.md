@@ -16,5 +16,5 @@ Made with Python, Selenium, HtmlTestRunner.
 <br />
 - Please make sure to maintain all the necessary dependencies (Python, Selenium, Firefox, geckodriver). 
 <br />
-- Also don't forget to modify the location within the "login.py" file to whichever location you choose to store "geckodriver" (on line 17) and this "selenium_bot" project folder (on line 8). 
+- Also don't forget to modify the location within the "login.py" file to whichever location you choose to store "geckodriver" (on line 17) and this "selenium_bot" project folder (on line 8 and line 46). 
 
