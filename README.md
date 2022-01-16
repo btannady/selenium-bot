@@ -1,4 +1,4 @@
-# selenium_bot
+# selenium-bot
 
 Developed in Python using open-source Selenium WebDriver, this automation testing project was crafted with the aim of evaluating website performance and maintaining quality assurance.
 <br />
